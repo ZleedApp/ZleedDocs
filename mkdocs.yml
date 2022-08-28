@@ -1,0 +1,38 @@
+site_name: Zleed Docs
+
+repo_url: https://github.com/ZleedApp/ZleedDocs
+repo_name: ZleedApp/ZleedDocs
+
+theme:
+  name: material
+  favicon: assets/favicon.ico
+  font:
+    text: Noto Sans
+    code: Noto Sans Mono
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ZleedApp
+    - icon: fontawesome/brands/github
+      link: https://github.com/ZleedApp
+
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+
+extra_css:
+  - css/custom.css
