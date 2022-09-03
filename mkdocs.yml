@@ -32,6 +32,7 @@ nav:
   - API:
       - Auth: api/auth.md
       - User: api/user.md
+      - Explore: api/explore.md
 
 plugins:
   - search
