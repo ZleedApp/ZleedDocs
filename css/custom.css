@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+Mono&display=swap');
+
+:root > * {
+  --md-primary-fg-color:        #00B758;
+  --md-primary-fg-color--light: #00B758;
+  --md-primary-fg-color--dark:  #00B758;
+}
