@@ -1,6 +1,6 @@
 # Getting Started
 
-You don't anything to get started expect the project you want to add the Zleed API into.
+You don't need anything to get started expect the project you want to add the Zleed API into.
 
 ## API Structure
 
