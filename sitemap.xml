@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
+         <loc>https://docs.zleed.ga/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://docs.zleed.ga/about/changelog/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://docs.zleed.ga/about/contributing/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://docs.zleed.ga/about/license/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://docs.zleed.ga/api/auth/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://docs.zleed.ga/api/explore/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://docs.zleed.ga/api/user/</loc>
          <lastmod>2022-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
