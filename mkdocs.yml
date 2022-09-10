@@ -1,4 +1,5 @@
 site_name: Zleed Docs
+site_url: https://docs.zleed.ga/
 
 repo_url: https://github.com/ZleedApp/ZleedDocs
 repo_name: ZleedApp/ZleedDocs
@@ -24,6 +25,17 @@ extra:
       link: https://github.com/ZleedApp
 
 nav:
+  - Home: /
+  - About:
+      - Contributing &amp; Support: about/contributing.md
+      - Changelog: about/changelog.md
+      - License: about/license.md
+  - API:
+      - Auth: api/auth.md
+      - User: api/user.md
+      - Explore: api/explore.md
+      
+pages:
   - Home: /
   - About:
       - Contributing &amp; Support: about/contributing.md
