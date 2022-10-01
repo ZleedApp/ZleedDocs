@@ -29,6 +29,7 @@ nav:
       - Contributing &amp; Support: about/contributing.md
       - Changelog: about/changelog.md
       - License: about/license.md
+      - Privacy Policy: about/privacy-policy.md
   - API:
       - Auth: api/auth.md
       - User: api/user.md
