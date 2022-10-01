@@ -14,6 +14,15 @@ theme:
     code: Noto Sans Mono
   icon:
     repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Light Mode
 
 extra:
   social:

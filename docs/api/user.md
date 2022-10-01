@@ -9,7 +9,7 @@ GET https://zleed.ga/api/v1/user/@me
 Request Header:
 
 ```
-Authoraziton: Bearer <jwtToken>
+Authorization: Bearer <jwtToken>
 ```
 
 Response:
