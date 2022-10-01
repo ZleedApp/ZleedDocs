@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.zleed.ga/about/tos/</loc>
+         <lastmod>2022-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.zleed.ga/api/auth/</loc>
          <lastmod>2022-10-01</lastmod>
          <changefreq>daily</changefreq>
