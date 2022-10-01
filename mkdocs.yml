@@ -40,6 +40,7 @@ nav:
       - Changelog: about/changelog.md
       - License: about/license.md
       - Privacy Policy: about/privacy-policy.md
+      - Terms of Service: about/tos.md
   - API:
       - Auth: api/auth.md
       - User: api/user.md
